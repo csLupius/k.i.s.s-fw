@@ -1,0 +1,11 @@
+
+.gitignore
+
+/API/*
+/includes/*
+/PAGES/*
+/Templates/*
+/Resources/*
+!/Resources/sampledata.json
+!/Resources/config.json
+index.html
